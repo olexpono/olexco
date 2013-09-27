@@ -1,10 +1,7 @@
 {
-  "name": "olex
-",
-  "sqspSubdomain": "olex
-",
-  "sqspStagingSubdomain": "olex
-staging",
+  "name": "olex",
+  "sqspSubdomain": "olex",
+  "sqspStagingSubdomain": "olexstaging",
   "version": "0.0.1",
   "private": true,
   "devDependencies": {

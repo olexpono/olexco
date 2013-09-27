@@ -13,7 +13,8 @@ module.exports = (grunt) ->
         buildDir: 'build'
         themeDir: 'theme'
 
-        ### Defaults
+        # Defaults
+        #
         # defaultLocale: 'en'
         # locales:
         #   en:
