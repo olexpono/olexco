@@ -1,0 +1,17 @@
+{
+  "name": "olex
+",
+  "sqspSubdomain": "olex
+",
+  "sqspStagingSubdomain": "olex
+staging",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-sqsp": "latest"
+  },
+  "engines": {
+    "node": "latest"
+  }
+}
