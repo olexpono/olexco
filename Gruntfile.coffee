@@ -12,18 +12,6 @@ module.exports = (grunt) ->
             title: "Footer Navigation"
         buildDir: 'build'
         themeDir: 'theme'
-
-        # Defaults
-        #
-        # defaultLocale: 'en'
-        # locales:
-        #   en:
-        #     name: "Default"
-        #   jp:
-        #     name: "Japan"
-        # layoutName: 'default' # == default
-        # regionFilename: 'site' # == default
-        # deployMessage: 'sqsp-autobuild'
       staging:
         options:
           buildDir: 'build-staging'
